@@ -9,11 +9,13 @@
 <br />
 <div align="center">
   <h1>ft_irc</h1>
-  ![alt text](https://www.plutora.com/wp-content/uploads/2018/11/irc_internet_relay_chat.png)
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## ℹ️ About The Project
+
+![alt text](https://www.plutora.com/wp-content/uploads/2018/11/irc_internet_relay_chat.png)
+
 _42 Project_
 
 The goal of this project is to make you write your own IRC server. To do so, you will follow the real IRC RFC and test your work with real IRC clients. Internet is ruled by solid and standards protocols that allow a strong interaction between every connected computer. It’s always good to know about it.
