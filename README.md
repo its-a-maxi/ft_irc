@@ -21,6 +21,14 @@ The goal of this project is to make you write your own IRC server. To do so, you
 
 * [Subject](https://cdn.intra.42.fr/pdf/pdf/32224/en.subject.pdf)
 
+### Steps
+
+   1. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
+   2. [Beej's cheesy chat example](https://beej.us/guide/bgnet/examples/selectserver.c)
+   3. [RFC for Human beings](https://modern.ircdocs.horse/)
+   4. ????
+   5. Profit
+
 ### RFC Documentation
 
 Request For Comments, official documentation for IRC.
@@ -56,9 +64,9 @@ Request For Comments, official documentation for IRC.
   - `FD_ISSET`: returns true if fd is in the set.
   - `FD_SET`: adds fd to the set.
   - `FD_ZERO`: clears all entries from the set.
-  - signal
-  - lseek
-  - fstat
+  - `signal`
+  - `lseek`
+  - `fstat`
 </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -142,14 +150,6 @@ Project Link: [https://github.com/its-a-maxi/ft_irc](https://github.com/its-a-ma
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 
-
- Steps
- -------------
-   1. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
-   2. [Beej's cheesy chat example](https://beej.us/guide/bgnet/examples/selectserver.c)
-   3. [RFC for Human beings](https://modern.ircdocs.horse/)
-   4. ????
-   5. Profit
 
 ¿Qué es el IRC?
 ---------------
