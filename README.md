@@ -64,6 +64,8 @@ Maximo Monroy - monroy.vds@gmail.com
 
 Alejandro León - https://github.com/ElHuaco
 
+Fernando Jimenez - https://github.com/fjimenez81
+
 Project Link: [https://github.com/its-a-maxi/ft_irc](https://github.com/its-a-maxi/ft_irc)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -73,12 +75,12 @@ Project Link: [https://github.com/its-a-maxi/ft_irc](https://github.com/its-a-ma
 <!-- ACKNOWLEDGMENTS -->
 ## 🥇 Acknowledgments
 
-* [X] [Biblia introductora a programación de redes](https://beej.us/guide/bgnet/html//index.html#what-is-a-socket)
-* [Loco crea IRC server en C para NeoVim](https://www.youtube.com/watch?v=Cct_vXCJOFw)
-* [X] [Tutorial Parte 1](https://www.youtube.com/watch?v=C7CpfL1p6y0): repaso IP, TCP, sockets.
-* [X] [Tutorial Parte 2](https://www.youtube.com/watch?v=OuYPe_HcLWc): abstraer el código de conexión con Socket, Server classes.
-* [Esquema aplicación server-client socket](https://www.ibm.com/docs/en/zos/2.4.0?topic=internets-typical-client-server-program-flow-chart#o4ag1__tiptcp)
-* [Puertos IRC](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?search=IRC)
+* [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html#what-is-a-socket)
+* [Building an IRC Server for Vim in C](https://www.youtube.com/watch?v=Cct_vXCJOFw)
+* [Introduction to TCP/IP and Sockets, part 1: Introducing the protocols and API](https://www.youtube.com/watch?v=C7CpfL1p6y0)
+* [Introduction to TCP/IP and Sockets, part 2: Example code Walk-Through](https://www.youtube.com/watch?v=OuYPe_HcLWc)
+* [A typical client-server program flow chart](https://www.ibm.com/docs/en/zos/2.4.0?topic=internets-typical-client-server-program-flow-chart#o4ag1__tiptcp)
+* [IRC Ports](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?search=IRC)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
