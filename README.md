@@ -31,14 +31,12 @@ Request For Comments, official documentation for IRC.
   - [ ] [RFC 2813](https://datatracker.ietf.org/doc/html/rfc2813)
   - [ ] [RFC 7194](https://datatracker.ietf.org/doc/html/rfc7194)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Allowed functions
 
 <details>
   <summary>Expand</summary>
   
-    - `socket()`: lo crea. Selecciona protocolos (`PF_INET` ó `PF_INET6`; `SOCK_STREAM`; `getprotobyname("tcp")`). También se puede rellenar con el `struct addrinfo` usado en `getaddrinfo()`.
+  - `socket()`: lo crea. Selecciona protocolos (`PF_INET` ó `PF_INET6`; `SOCK_STREAM`; `getprotobyname("tcp")`). También se puede rellenar con el `struct addrinfo` usado en `getaddrinfo()`.
   - `setsockopt()`, `getsockname()`: controlar socket descriptors, como `fcntl()`.
   - `getprotobyname()`: devuelve el número asociado al nombre del protocolo, como "tcp" o "udp".
   - `gethostbyname()`: da la dirección IP de un host name. No funciona bien con IPv6. Mejor usar `getaddrinfo()`.
@@ -63,6 +61,7 @@ Request For Comments, official documentation for IRC.
   - fstat
 </details>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
