@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1>Task Manager in React</h1>
+  <h1>ft_irc</h1>
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -28,18 +28,15 @@ The goal of this project is to make you write your own IRC server. To do so, you
 <!-- GETTING STARTED -->
 ## 🏃 Quick Start
 
-### Prerequisites
+### Important
 
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Project has only been tested and runned on macOS systems
 
 ### Installation
 
 * Clone the repo
   ```sh
-  git clone https://github.com/its-a-maxi/task-manager-react.git
+  git clone https://github.com/its-a-maxi/ft_irc.git
   ```
   
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -48,9 +45,13 @@ The goal of this project is to make you write your own IRC server. To do so, you
 <!-- USAGE EXAMPLES -->
 ## ⌨️ Usage
 
-* Run task-manager.sh
+* Compile
 ```sh
-  ./task-manager.sh
+  make
+```
+* Run
+``` sh
+  ./ircserv [host:port_network:password_network] \<port\> \<password\>
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
