@@ -29,19 +29,6 @@ The goal of this project is to make you write your own IRC server. To do so, you
    4. ????
    5. Profit
 
-### Whats IRC?
-
-[IRC](https://es.wikipedia.org/wiki/Internet_Relay_Chat) it's an "application layer" which allows text communication on the internet. This chat works with a "client/server" network model.
-  - [Internet](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-  - Application Layer: es un "abstraction layer" que especifica los protocolos de comunicación compartidos por los "hosts de la red", así como los métodos de interfaz usados.
-    - Abstraction Layer: categorización de los entresijos de un sistema para poder atacarlos por separado.
-    - Host de Red: ordenador conectado a una red, asignado con una dirección red al menos.
-  - Client/Server model: es una forma de "distributed application" donde se reparten las tareas entre los proveedores de un servicio (servidores) y los usuarios del servicio (clientes). Un "host de red" del servicio ejecuta programas que pueden compartir sus recursos con lo clientes. Un cliente no comparte sus recursos, pero sí que exige el servicio al servidor.
-    - Distributed Application: programa que se ejecuta en un "distributed system".
-      - Distributed System: sistema cuyas componentes están en diferentes ordenadores de la red, como los MMORPGs.
-Los clientes IRC se comunican con los servidores del chat para transmitir mensajes a otros clientes. Debe ser TCP/IP(v4) ó (v6).
-  - [TCP/IP](https://www.youtube.com/watch?v=614QGgw_FA4)
-
 ### RFC Documentation
 
 Request For Comments, official documentation for IRC.
