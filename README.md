@@ -21,6 +21,16 @@ The goal of this project is to make you write your own IRC server. To do so, you
 
 * [Subject](https://cdn.intra.42.fr/pdf/pdf/32224/en.subject.pdf)
 
+### RFC Documentation
+
+Request For Comments, official documentation for IRC.
+  - [X] [RFC 1459](https://datatracker.ietf.org/doc/html/rfc1459)
+  - [ ] [RFC 2810](https://datatracker.ietf.org/doc/html/rfc2810)
+  - [ ] [RFC 2811](https://datatracker.ietf.org/doc/html/rfc2811)
+  - [ ] [RFC 2812](https://datatracker.ietf.org/doc/html/rfc2812)
+  - [ ] [RFC 2813](https://datatracker.ietf.org/doc/html/rfc2813)
+  - [ ] [RFC 7194](https://datatracker.ietf.org/doc/html/rfc7194)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
