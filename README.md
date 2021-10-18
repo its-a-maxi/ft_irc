@@ -9,12 +9,11 @@
 <br />
 <div align="center">
   <h1>ft_irc</h1>
+  <img src="https://www.plutora.com/wp-content/uploads/2018/11/irc_internet_relay_chat.png" />
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## ℹ️ About The Project
-
-![alt text](https://www.plutora.com/wp-content/uploads/2018/11/irc_internet_relay_chat.png)
 
 _42 Project_
 
